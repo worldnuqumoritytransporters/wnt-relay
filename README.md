@@ -1,6 +1,6 @@
-# Relay for worldnuqumoritytransporters network
+# Relay for Wnt network
 
-This is a node for worldnuqumoritytransporters network that stores the entire database and forwards new storage units to peers.  The relay does not hold any private keys and cannot send payments itself.
+This is a node for Wnt network that stores the entire database and forwards new storage units to peers.  The relay does not hold any private keys and cannot send payments itself.
 
 ## Install
 
@@ -16,4 +16,4 @@ node start.js > log &
 ```
 ## Customize
 
-If you want to change any defaults, refer to the documentation of [wntcore](../../../wntcore), the core wnt library `require()`'d from here.
+If you want to change any defaults, refer to the documentation of [wntcore](../../../wntcore), the core Wnt library `require()`'d from here.

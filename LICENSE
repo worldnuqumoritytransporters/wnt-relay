@@ -1,9 +1,9 @@
 The MIT License (MIT)
 
-Copyright (c) 2018 WNT 
+Copyright (c) 2019 WNT developers
 
-本ソフトウェアはbyteballより無償で提供されているソフトウェアのソースコードを利用しています。
-以下、byteball License 本文
+本ソフトウェアはwntより無償で提供されているソフトウェアのソースコードを利用しています。
+以下、wnt License 本文
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -29,5 +29,3 @@ THE SOFTWARE.
 作者または著作権者は、いかなる請求、損害またはその他
 責任、契約の遂行、違反行為、その他から生じたものであっても、その他一切の影響について、当社はその責任を負いません。
 本ソフトウェアまたはその使用またはその他の契約に関連してサーバーへのコンピュータウィルスその他の有害物の侵入等について、一切保証するものではありません。
-
-

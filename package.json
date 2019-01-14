@@ -1,7 +1,7 @@
 {
   "name": "wnt-relay",
-  "description": "wnt Relay",
-  "author": "wnt",
+  "description": "Wnt Relay",
+  "author": "Wnt",
   "version": "0.1.0",
   "main": "start.js",
   "keywords": [
@@ -22,6 +22,6 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteballcore": "git+https://github.com/worldnuqumoritytransporters/wntcore.git"
+    "wntcore": "git+https://github.com/worldnuqumoritytransporters/wntcore.git"
   }
 }
